@@ -12,6 +12,6 @@ Check out what students at UC Irvine’s MECPS program have built:
 🔗 [LinkedIn Post 2](https://www.linkedin.com/posts/uci-mecps_mecps-engineeringeducation-uci-activity-7262889979847012355-HLQ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKg1KkBzWousRxmgm9T_jDBkEGpx8wpPSU)
 
 ## 👨‍🏫 Step 3: Take Prof. Burke’s Classes  
-If you're at UCI, don't miss out on courses taught by **Professor Ian Burke**—they're hands-on, practical, and full of cutting-edge embedded systems and drone tech!
+If you're at UCI, don't miss out on courses taught by **Professor Peter Burke**—they're hands-on, practical, and full of cutting-edge embedded systems and drone tech!
 _________________________________
 * I have also attached a few files to get you started
